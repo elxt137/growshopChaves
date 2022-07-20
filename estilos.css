@@ -144,7 +144,7 @@ main#productos{
 .galeria{
     width: 100%;
     height: auto;
-    background-image: linear-gradient(to left, green, yellow ); /*animacion*/
+    background-image: linear-gradient(to left, green, rgb(240, 240, 14) ); /*animacion*/
     /* min-height: 100vh; */
 
 
