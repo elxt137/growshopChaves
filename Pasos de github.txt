@@ -1,8 +1,0 @@
-Pasos para subir un clon a un repositorio y poder trabajar en el
-
-1 . Subir un proyecto a github, ir a add y copiar el enlace
-2 . Abrir git en la carpeta del proyecto clon y pego el enlace 
-3 . Git status
-4 . Git add .
-5 . git commit -m "comentario de modificacion"
-6 . git push
